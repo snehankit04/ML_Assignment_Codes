@@ -4,6 +4,6 @@ Assignment for Linear REgression
 to Run Code
 Create object and call out method
 ex: objectName = LinearRgression
-    objectName.out()
+    objectName.output()
     
 then enter Input values (X) & output values (Y) and prediction value 

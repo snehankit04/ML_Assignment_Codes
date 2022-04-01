@@ -12,6 +12,6 @@ ex: objectName = LinearRgression
 then enter Input values (X) & output values (Y) and prediction value 
 
 --------------------------------------------------------------------
-2) KNN 
+2)KNN 
 --------------------------------------------------------------------
 for Knn implimentation download "Social_Network_Ads.csv" file and change file address in code 
